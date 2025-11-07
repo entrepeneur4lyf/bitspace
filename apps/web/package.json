@@ -36,7 +36,7 @@
         "@types/color-convert": "^2.0.3",
         "@vercel/analytics": "^1.1.2",
         "@vercel/blob": "^0.23.3",
-        "ai": "^2.2.31",
+        "ai": "^5.0.52",
         "clsx": "^2.1.0",
         "color-convert": "^2.0.1",
         "eslint-plugin-unused-imports": "^2.0.0",
